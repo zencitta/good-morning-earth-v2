@@ -6,7 +6,6 @@ function fly()
 {
   charge();
   startEngine();
-  
 }
 ```
 
